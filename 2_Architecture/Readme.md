@@ -6,6 +6,9 @@
 ##  Usecase Diagram:
 ![Usercase Diagram](https://user-images.githubusercontent.com/63452014/153253160-4d24cc04-d29a-4613-ab45-0cc7b87cf0a9.png)
 
+![structural diagram](https://user-images.githubusercontent.com/63452014/157398311-338ea90f-0c30-4ec6-b3b2-d23f12eb0fb8.jpg)
+
+
 
 
 # Flowchart of the Employee Management System:
