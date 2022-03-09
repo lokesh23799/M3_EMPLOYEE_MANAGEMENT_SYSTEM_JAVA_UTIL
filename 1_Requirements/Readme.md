@@ -6,6 +6,8 @@
 
 * Employee Management System is a distributed application, developed to maintain the details of employees working in any organization The EMS has been developed to override the problems prevailing in the practicing manual system.It maintains the information about the personal and official details of the employees.
 
+* This software application stores all the employess information in a database .It is an application developed in java GUI technology it contains employee information like employee id,name,salary,contact no,email.id.it is an easy to use application and has a user friendly interface it is totally built at the administrative end which means that only the admin has access rights to changes or modify any records.So the mahes it safe and reliable application to use.The main aim of developing this application was to reduce the errors that occur in the manual system. One can search the details easily by just entering employee id. In earlier systems, there was not such a facility to do so.
+
 ## Abstract 
 
 * This repository consists of Java Program for Employee Management System. In this repository I have created a TUI program for Employee Management System which consists of 4 different operation.
