@@ -19,6 +19,11 @@
 
 The Program is completely based on OOPs concept.
 
+## SDLC Methods followed
+# Badges
+
+[![Java CI](https://github.com/RAVI9966/M3_EMPLOYEE_MANAGEMENT_SYSTEM_JAVA_UTIL/actions/workflows/main.yml/badge.svg)](https://github.com/RAVI9966/M3_EMPLOYEE_MANAGEMENT_SYSTEM_JAVA_UTIL/actions/workflows/main.yml)
+
 
 
 ## Objectives Of Project:-
