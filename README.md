@@ -30,6 +30,8 @@ The Program is completely based on OOPs concept.
 
 [![Unit-Testing](https://github.com/RAVI9966/M3_EMPLOYEE_MANAGEMENT_SYSTEM_JAVA_UTIL/actions/workflows/Unit.yml/badge.svg)](https://github.com/RAVI9966/M3_EMPLOYEE_MANAGEMENT_SYSTEM_JAVA_UTIL/actions/workflows/Unit.yml)
 
+[![Java CI with Gradle](https://github.com/RAVI9966/M3_EMPLOYEE_MANAGEMENT_SYSTEM_JAVA_UTIL/actions/workflows/Gradle.yml/badge.svg)](https://github.com/RAVI9966/M3_EMPLOYEE_MANAGEMENT_SYSTEM_JAVA_UTIL/actions/workflows/Gradle.yml)
+
 
 
 ## Objectives Of Project:-
