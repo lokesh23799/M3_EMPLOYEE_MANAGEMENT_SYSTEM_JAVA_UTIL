@@ -39,3 +39,10 @@ The Program is completely based on OOPs concept.
 | 4_Testplan & output |	Documents with test plans and procedures |
 | Report |	Report of the whole project |
 
+# References
+
+* You tube Java programming learning 
+* greefs for greeks 
+* Reference from Java text books
+
+
