@@ -26,6 +26,8 @@ The Program is completely based on OOPs concept.
 
 [![Android CI](https://github.com/RAVI9966/M3_EMPLOYEE_MANAGEMENT_SYSTEM_JAVA_UTIL/actions/workflows/Android.yml/badge.svg)](https://github.com/RAVI9966/M3_EMPLOYEE_MANAGEMENT_SYSTEM_JAVA_UTIL/actions/workflows/Android.yml)
 
+[![Clojure CI](https://github.com/RAVI9966/M3_EMPLOYEE_MANAGEMENT_SYSTEM_JAVA_UTIL/actions/workflows/Clojure.yml/badge.svg)](https://github.com/RAVI9966/M3_EMPLOYEE_MANAGEMENT_SYSTEM_JAVA_UTIL/actions/workflows/Clojure.yml)
+
 
 
 ## Objectives Of Project:-
