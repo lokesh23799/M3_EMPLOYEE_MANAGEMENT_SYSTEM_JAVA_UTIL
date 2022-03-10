@@ -12,6 +12,7 @@ public class Main {
         		+ "\n4. Delete Employee"
         		+ "\n5.View All Employee"
         		+ "\n6. Exist ");
+		
     }
 	 
 	public static void main(String[] args) {
